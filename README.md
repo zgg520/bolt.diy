@@ -1,3 +1,18 @@
+# 重要通知
+
+开源强化版bolt.new 支持第三方线上及本地几乎所有的API【bolt.diy】
+
+## 视频教程
+- 安装教程：https://www.bilibili.com/video/BV1xHCgYDET4/
+- 使用教程：https://www.bilibili.com/video/BV1SSCJYpEYm/
+- YouTube：https://youtu.be/EIAM20LJods
+
+## 更多资源
+更多视频教程请访问：https://github.com/aigem/videos
+
+---
+
+
 # bolt.diy
 
 [![bolt.diy: AI-Powered Full-Stack Web Development in the Browser](./public/social_preview_index.jpg)](https://bolt.diy)
